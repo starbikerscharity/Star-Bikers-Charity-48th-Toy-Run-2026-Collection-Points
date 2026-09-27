@@ -382,11 +382,106 @@
   {
     "name": "Emery's Builders Merchants",
     "address": "Garner st stoke",
-    "postcode": "ST4 7PU"
+    "postcode": "ST4 7Pu"
   },
   {
     "name": "Stantons of Stoke",
     "address": "Park lane Endon",
     "postcode": "ST9 9JB"
+  },
+  {
+    "name": "Co-op, Whitehill Road",
+    "address": "127 Whitehill Rd, Whitehill, Kidsgrove, Stoke-on-Trent",
+    "postcode": "ST7 4DR"
+  },
+  {
+    "name": "Micks cafe",
+    "address": "Longton market",
+    "postcode": "ST4 3AD"
+  },
+  {
+    "name": "The Park Inn",
+    "address": "1 Dartmouth St, Burslem, Stoke-on-Trent",
+    "postcode": "ST6 1HB"
+  },
+  {
+    "name": "Willow Barns",
+    "address": "Blurton",
+    "postcode": "ST3 3FB"
+  },
+  {
+    "name": "Lynn Sharp",
+    "address": "Fenton Market",
+    "postcode": "ST4 3AD"
+  },
+  {
+    "name": "Co-op, Cedar Avenue",
+    "address": "Cedar Ave, Butt Lane, Kidsgrove, Talke, Stoke-on-Trent",
+    "postcode": "ST7 1LA"
+  },
+  {
+    "name": "The Swan",
+    "address": "High Street, Burslem, Stoke-on-Trent",
+    "postcode": "ST6 1HQ"
+  },
+  {
+    "name": "The Royal Oak",
+    "address": "High Street, Burslem, Stoke-on-Trent",
+    "postcode": "ST6 1HD"
+  },
+  {
+    "name": "The Greyhound",
+    "address": "Newcastle Road, Stoke-on-Trent",
+    "postcode": "ST5 2SL"
+  },
+  {
+    "name": "The Blue Bell",
+    "address": "Market Street, Stoke-on-Trent",
+    "postcode": "ST6 3QJ"
+  },
+  {
+    "name": "The Crown",
+    "address": "High Street, Stoke-on-Trent",
+    "postcode": "ST7 8EA"
+  },
+  {
+    "name": "The Railway",
+    "address": "Station Road, Stoke-on-Trent",
+    "postcode": "ST4 6AB"
+  },
+  {
+    "name": "The Swan with Two Nicks",
+    "address": "Stafford Road, Stoke-on-Trent",
+    "postcode": "ST18 9AB"
+  },
+  {
+    "name": "The Bulls Head",
+    "address": "Church Lane, Stoke-on-Trent",
+    "postcode": "ST10 2AA"
+  },
+  {
+    "name": "The Dog and Duck",
+    "address": "Mill Lane, Stoke-on-Trent",
+    "postcode": "ST9 0AA"
+  },
+  {
+    "name": "The Kings Arms",
+    "address": "High Street, Stoke-on-Trent",
+    "postcode": "ST13 5AA"
+  },
+  {
+    "name": "The White Lion",
+    "address": "Market Street, Stoke-on-Trent",
+    "postcode": "ST14 8AA"
+  },
+  {
+    "name": "The Red Lion, Cheadle",
+    "address": "High Street, Cheadle, Stoke-on-Trent",
+    "postcode": "ST10 1AA"
+  },
+  {
+    "name": "The Market Cafe",
+    "address": "Cheadle",
+    "postcode": ""
   }
 ]
